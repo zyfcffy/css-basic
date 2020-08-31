@@ -39,7 +39,7 @@ D <lable>.section > .title {}</lable>
 5.在下列CSS选择器中，优先级从高到低是：( )
 ```
 <div class="section">
-    <h1 id="title" class="title">title</div>
+    <h1 id="title" class="title">title</h1>
 </div>
 
 A)  .section .title { color:red; }
